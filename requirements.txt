@@ -1,25 +1,4 @@
-1. Hardware Requirements
-✔ Minimum Requirements
-Processor: Intel i3 or equivalent
-RAM: 4 GB
-Hard Disk: 500 GB
-System: Laptop/Desktop
-Display: Standard monitor (1366 × 768)
-Input Devices: Keyboard and Mouse
-✔ Recommended Requirements
-Processor: Intel i5 or above
-RAM: 8 GB or more
-SSD for faster performance
-🔹 2. Software Requirements
-✔ Operating System
-Windows / Linux / macOS
-✔ Programming Language
-Python (3.8 or above)
-✔ Libraries & Frameworks
-Streamlit
-OS (built-in module)
-Time (built-in module)
-✔ Development Tools
-VS Code / PyCharm / Jupyter Notebook
-✔ Browser
-Google Chrome / Edge / Firefox
+streamlit 
+pandas 
+numpy
+
